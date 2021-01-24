@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "418213413994",
+    "firebase_url": "https://trader-bot-a3e04.firebaseio.com",
+    "project_id": "trader-bot-a3e04",
+    "storage_bucket": "trader-bot-a3e04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418213413994:android:a0d5f7e9ada28529d5b613",
+        "android_client_info": {
+          "package_name": "com.example.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418213413994-3j3ujhf6p4lls4btoi1amgpgaghh1g4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAsunADH57XHX69KqIhqqWiOhFv-O_Cfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418213413994-3j3ujhf6p4lls4btoi1amgpgaghh1g4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/berkshire_swash</item>
+        <item>@font/carter_one</item>
+        <item>@font/delius_swash_caps</item>
+        <item>@font/grand_hotel</item>
+        <item>@font/homemade_apple</item>
+        <item>@font/kaushan_script</item>
+        <item>@font/lobster</item>
+        <item>@font/playfair_display_sc</item>
+        <item>@font/quando</item>
+        <item>@font/yellowtail</item>
+    </array>
+</resources>
